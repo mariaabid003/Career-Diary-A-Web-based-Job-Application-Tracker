@@ -1,9 +1,9 @@
 # Career-Diary-A-Web-based-Job-Application-Tracker
-Introduction
+**Introduction**
 
 Career Diary is a backend system designed to help users track and manage their job applications efficiently. It provides a secure, scalable, and structured API for managing job postings, application statuses, and user authentication. The project was built with real-world workflows in mind, focusing on clean API design and data integrity.
 
-🏗Project Architecture
+**🏗Project Architecture**
 
 Backend Framework: Node.js + Express.js
 
@@ -17,7 +17,7 @@ Environment Config: dotenv for secure environment variable management
 
 API Testing: Postman for endpoint testing and debugging
 
-Flow of the Application
+**Flow of the Application**
 
 User Registration/Login – Users register securely and log in using JWT authentication.
 
@@ -29,7 +29,7 @@ Secure Access – Role-based access ensures only authorized users can manage dat
 
 Data Persistence – All information is stored in a structured relational database.
 
-Skills Demonstrated
+**Skills Demonstrated**
 
 Backend Development: Built RESTful APIs using Node.js & Express.
 
