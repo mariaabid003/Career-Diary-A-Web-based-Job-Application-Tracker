@@ -1,4 +1,4 @@
-# Career-Diary-A-Web-based-Job-Applocation-Tracker
+# Career-Diary-A-Web-based-Job-Application-Tracker
 Introduction
 
 Career Diary is a backend system designed to help users track and manage their job applications efficiently. It provides a secure, scalable, and structured API for managing job postings, application statuses, and user authentication. The project was built with real-world workflows in mind, focusing on clean API design and data integrity.
